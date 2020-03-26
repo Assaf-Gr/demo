@@ -3,4 +3,4 @@
 This is a simple readme.
 ## Heading 2
 
-some changes for branch
+Thing had change in the master branch
